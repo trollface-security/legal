@@ -2,7 +2,7 @@
 <br>
 <h3>Trollface Security</h3>
 <br>
-<sup> TrollSec </sup> 
+<sup> TrollSec </sup> <Br>
 <sup>Open-Source License</sup>
 <br>
 <sup>Copyright (C) [YEAR] [COPYRIGHT HOLDER], All rights reserved.</sup>
