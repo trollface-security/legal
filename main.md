@@ -1,6 +1,8 @@
 <img width="150" height="150" src="https://avatars.githubusercontent.com/u/101381689?s=200&v=4" alt="trollSec Logo">
 <br>
 <h3>Trollface Security</h3>
+<br>
+<sup> TrollSec </sup> 
 <sup>Open-Source License</sup>
 <br>
 <sup>Copyright (C) [YEAR] [COPYRIGHT HOLDER], All rights reserved.</sup>
