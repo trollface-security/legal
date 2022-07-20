@@ -28,4 +28,4 @@ You MUST include this EXACT license with NO MODIFICATIONS in ALL copies or subst
 ___
 
 ### Additional Comments
-You are not to replicate any contents of trollface security/trollSec's code without permission from the owners of said repositories. Failure to comply with this will result in potential legal action against the violator to rectify and remove the copypasted repositories, along with any modified code expunged from the website. Only use the code provided here for educational or private purposes.
+You are not to replicate any contents of trollface security/trollSec's code without properly crediting from the owners of said repositories. Failure to comply with this will result in potential legal action against the violator to rectify and remove the copypasted repositories, along with any modified code expunged from the website. Only use the code provided here for educational or private purposes.
